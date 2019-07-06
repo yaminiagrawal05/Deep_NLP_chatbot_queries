@@ -1,7 +1,7 @@
 # Deep_NLP_chatbot_queries
 
 # Dataset
-Sheet_1.csv contains 80 user responses, in the response_text column, to a therapy chatbot. User responded. If a response is 'not flagged', the user can continue talking to the bot. If it is 'flagged', the user is referred to help.
+Sheet_1.csv contains 80 user responses, in the response_text column, to a therapy chatbot. User responded. If a response is 'not flagged', the user can continue talking to the bot. If it is 'flagged', the user is referred to help. I have taken this dataset fom kaggle (https://www.kaggle.com/samdeeplearning/deepnlp)
 
 # Model
 I have made the infamous bag of words model. 
